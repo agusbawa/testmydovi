@@ -1,7 +1,7 @@
 # Instalation
 Pertama clone
 ```sh
-http:://
+git clone https://github.com/agusbawa/testmydovi.git
 ```
 Setelah Clone lakukan composer install untuk install semua devedency yang di perlukan
 ```sh
